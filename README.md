@@ -2,6 +2,10 @@
 
 A modern, interactive web application that simulates Tesla's vehicle configuration experience, focusing on the Model Y. Built with JavaScript, TailwindCSS, and modern web technologies.
 
+## 🔗 Live Demo
+
+Experience the application live: [Tesla Model Y Configurator](https://tesla-car-config-ui-js.netlify.app/)
+
 ## 🚗 Features
 
 - Real-time price updates based on selected options
@@ -27,7 +31,7 @@ A modern, interactive web application that simulates Tesla's vehicle configurati
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Tesla-Car-Config-UI-.JS.git
+git clone https://github.com/BilalKhanIO/Tesla-Car-Config-UI-.JS.git
 ```
 
 2. Open the project:
@@ -45,6 +49,8 @@ npx serve
 ```
 
 4. Open your browser and navigate to `http://localhost:8000`
+
+Alternatively, visit the [live demo](https://tesla-car-config-ui-js.netlify.app/) to try it out immediately.
 
 ## 💡 Suggested Enhancements
 
